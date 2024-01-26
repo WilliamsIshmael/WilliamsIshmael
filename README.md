@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilliamsIshmael
 - 👀 I’m interested in ... code and applications that can help solve real world problems. 
-- 🌱 I’m currently learning ... JavaScript, HTML, CSS, and AWS Cloud Services. 
+- 🌱 I’m currently learning ... JavaScript, HTML, CSS, Python, and AWS Cloud Services. 
 - 💞️ I’m looking to collaborate on ... small, begineer projects. 
 - 📫 How to reach me ... 
 - 😄 Pronouns: ... he/him 
