@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WilliamsIshmael
 - 👀 I’m interested in code and applications that can help solve real world problems. 
 - 🌱 I’m currently learning JavaScript, HTML, CSS, Python, and AWS Cloud Services. 
-- 💞️ I’m looking to collaborate on small, begineer projects. 
+- 💞️ I’m looking to collaborate on small, beginner projects. 
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: ... I'm a CrossFitter 
 
