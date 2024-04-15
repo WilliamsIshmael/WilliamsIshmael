@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WilliamsIshmael
+- 👋 Hi, I’m Ishmael! 
 - 👀 I’m interested in code and applications that can help solve real world problems. 
 - 🌱 I’m currently learning JavaScript, HTML, CSS, Python, and cloud computing. 
 - 💞️ I’m looking to collaborate on small, beginner projects. 
