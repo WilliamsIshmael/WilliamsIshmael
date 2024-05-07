@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript, HTML, CSS, Python, and cloud computing. 
 - 💞️ I’m looking to collaborate on small, beginner projects. 
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: ... I'm a CrossFitter 
+- ⚡ Fun fact: ... I'm a CrossFit athlete. 
 
 - Certifications: AWS Cloud Practitioner. 
 
